@@ -245,7 +245,7 @@ class TheHotel extends StatelessWidget {
             ListView(
               children: [
                 Card(
-                  
+
                 )
               ],
             )],
