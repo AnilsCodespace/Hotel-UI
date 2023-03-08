@@ -1,4 +1,4 @@
- Flutter UI assignment-3
+Hotel UI
 
 ![e92cdb77-364c-42d6-a5c1-89c89909a367](https://user-images.githubusercontent.com/87460435/200133787-ecb8f8ca-3cfd-475b-9ee3-275cb1f166db.jpg)
 
